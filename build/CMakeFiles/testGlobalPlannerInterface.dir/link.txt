@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11   -rdynamic CMakeFiles/testGlobalPlannerInterface.dir/test/testGlobalPlannerInterface.cpp.o  -o testGlobalPlannerInterface  -L/mnt/globalPlanCombine/./lib -Wl,-rpath,/mnt/globalPlanCombine/./lib -Wl,-Bstatic -lCmpAgu -Wl,-Bdynamic 

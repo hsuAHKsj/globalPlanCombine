@@ -1,0 +1,3 @@
+/mnt/globalPlanCombine/build/CMakeFiles/rebuild_cache.dir
+/mnt/globalPlanCombine/build/CMakeFiles/CmpAgu.dir
+/mnt/globalPlanCombine/build/CMakeFiles/edit_cache.dir
